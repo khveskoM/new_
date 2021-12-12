@@ -1,2 +1,2 @@
 # new_
-fitrst repository
+first repository
